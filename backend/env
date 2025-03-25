@@ -1,0 +1,2 @@
+MONGO_URI="mongodb://localhost:27017/foodmine-db1"
+JWT_SECRET="A3egy9u3t670-u2i99029h2ojiop@o0w2jijn"
