@@ -36,7 +36,7 @@ This app allows users to browse food items, add them to their cart, place orders
 ## 🔧 Installation
 1. *Clone the Repository*  
    sh
-   git clone https://github.com/Manu040405/foodminereact.git
+   git clone https://github.com/jamilipriyanka/fooddelivery-application
    cd food-ordering-app
    
 
