@@ -250,46 +250,46 @@ PAYPAL_CLIENT_ID=your_paypal_client_id
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/home-page.png" alt="Home Page" width="600"/>
+  <img src="https://github.com/jamilipriyanka/fooddelivery-application/blob/main/homepage.jpg" alt="Home Page" width="600"/>
   <p align="center"><strong>Home Page</strong></p>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/food-detail.png" alt="Food Details" width="600"/>
+  <img src="https://github.com/jamilipriyanka/fooddelivery-application/blob/main/fooddetails.jpg" alt="Food Details" width="600"/>
   <p align="center"><strong>Food Details Page</strong></p>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/search-results.png" alt="Search Results" width="600"/>
+  <img src="https://github.com/jamilipriyanka/fooddelivery-application/blob/main/search.jpg" alt="Search Results" width="600"/>
   <p align="center"><strong>Search Results</strong></p>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/cart-page.png" alt="Shopping Cart" width="600"/>
+  <img src="https://github.com/jamilipriyanka/fooddelivery-application/blob/main/cartpage.jpg" alt="Shopping Cart" width="600"/>
   <p align="center"><strong>Shopping Cart</strong></p>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/paypal.png" alt="Payment Page" width="600"/>
+  <img src="https://github.com/jamilipriyanka/fooddelivery-application/blob/main/paypal.jpg" alt="Payment Page" width="600"/>
   <p align="center"><strong>Payment Page</strong></p>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/order-page.png" alt="Order Tracking" width="600"/>
+  <img src="https://github.com/jamilipriyanka/fooddelivery-application/blob/main/orderform.jpg" alt="Order Tracking" width="600"/>
   <p align="center"><strong>Order Tracking</strong></p>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/login-page.png" alt="User Profile" width="600"/>
+  <img src="https://github.com/jamilipriyanka/fooddelivery-application/blob/main/profileupdate.jpg" alt="User Profile" width="600"/>
   <p align="center"><strong>User Profile</strong></p>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/order.png" alt="Order History" width="600"/>
+  <img src="https://github.com/jamilipriyanka/fooddelivery-application/blob/main/orderhistory.jpg" alt="Order History" width="600"/>
   <p align="center"><strong>Order History</strong></p>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/login.png" alt="Login Page" width="600"/>
+  <img src="https://github.com/jamilipriyanka/fooddelivery-application/blob/main/login.jpg" alt="Login Page" width="600"/>
   <p align="center"><strong>Login Page</strong></p>
 </p>
